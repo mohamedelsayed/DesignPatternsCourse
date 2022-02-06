@@ -1,0 +1,24 @@
+{
+    "name": "mohamedelsayed/design-patterns-course",
+    "description": "design pattern course",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Creational\\": "Creational",
+            "Structural\\": "Structural",
+            "Behavioral\\": "Behavioral"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [{
+        "name": "Mohamed Elsayed",
+        "email": "m.elsayed@advantive.net"
+    }],
+    "require": {
+        "phpunit/phpunit": "^8.5.8"
+    }
+}
