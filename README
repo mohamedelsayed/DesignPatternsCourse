@@ -1,2 +1,0 @@
-#to run tests:
-./vendor/phpunit/phpunit/phpunit Tests/
