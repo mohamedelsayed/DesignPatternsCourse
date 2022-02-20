@@ -1,0 +1,17 @@
+{
+    "name": "mohamedelsayed/token-auth-lib",
+    "description": "test lib for adapter",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mohamed Elsayed",
+            "email": "m.elsayed@advantive.net"
+        }
+    ],
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "TokenAuth\\": "TokenAuth"
+        }
+    }
+}

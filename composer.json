@@ -19,6 +19,15 @@
         "email": "m.elsayed@advantive.net"
     }],
     "require": {
-        "phpunit/phpunit": "^8.5.8"
-    }
+        "phpunit/phpunit": "^8.5.8",
+        "mohamedelsayed/basic-auth-lib": "*@dev",
+        "mohamedelsayed/token-auth-lib": "*@dev"
+    },
+    "repositories": [{
+        "type": "path",
+        "url": "BasicAuthLib"
+    }, {
+        "type": "path",
+        "url": "TokenAuthLib"
+    }]
 }

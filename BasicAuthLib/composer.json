@@ -1,0 +1,17 @@
+{
+    "name": "mohamedelsayed/basic-auth-lib",
+    "description": "test lib for adapter",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "BasicAuth\\": "BasicAuth"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Elsayed",
+            "email": "m.elsayed@advantive.net"
+        }
+    ],
+    "require": {}
+}
