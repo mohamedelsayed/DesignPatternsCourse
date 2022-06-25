@@ -5,10 +5,10 @@ namespace Structural\Composite;
 class SimpleBox implements ProductInterface
 {
     /** 
-     * @var string 
+     * @var int 
      */
     private $price;
-    public function __construct(string $price)
+    public function __construct(int $price)
     {
         $this->price = $price;
     }
