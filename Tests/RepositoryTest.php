@@ -46,7 +46,5 @@ class RepositoryTest extends TestCase
         $user = $this->repository->find(4);
         $this->assertInstanceOf(User::class, $user);
         $this->assertEquals('test02', $user->getName());
-        $this->assertEquals('test02', $user->getEmail());
-
     }
 }
