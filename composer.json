@@ -25,8 +25,8 @@
     }],
     "require": {
         "phpunit/phpunit": "^8.5.8",
-        "mohamedelsayed/basic-auth-lib": "*@dev",
-        "mohamedelsayed/token-auth-lib": "*@dev"
+        "mohamedelsayed/basic-auth-lib": "dev-main",
+        "mohamedelsayed/token-auth-lib": "dev-main"
     },
     "repositories": [{
         "type": "path",
