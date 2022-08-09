@@ -1,4 +1,6 @@
 # Design Patterns Course
+![](https://github.com/mohamedelsayed/DesignPatternsCourse/workflows/build/badge.svg)
+
 ## Dependencies
 - php: +7.3
 - composer install
