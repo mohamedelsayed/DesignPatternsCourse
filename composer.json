@@ -16,6 +16,9 @@
             "Tests\\": "Tests/"
         }
     },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
     "authors": [{
         "name": "Mohamed Elsayed",
         "email": "m.elsayed@advantive.net"
